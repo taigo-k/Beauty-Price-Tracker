@@ -28,7 +28,7 @@ BeautyPriceTracker.py を使用し、OSのタスクスケジューラ（Windows 
 
 
 
-ーーーーー English ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+----- **English Version** -----
 # 💰 Beauty Price Tracker (Automated Competitor Pricing System)
 Overview: An autonomous Python data pipeline project designed to monitor competitor pricing on e-commerce sites (The Ordinary) and deliver instant notifications via Gmail upon detecting price changes.
 
